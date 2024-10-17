@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ec48085-b5d5-44c2-8cd4-ad752502792a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RepasoClaseStrings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/ChartAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/CompareTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Equal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/IndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Objeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosString/ToLowerUpperCase.java" afterDir="false" />
-    </list>
+    <list default="true" id="0ec48085-b5d5-44c2-8cd4-ad752502792a" name="Changes" comment="Se visualizaron mediante debug los ejemplos de metodos de string propuestos en clase" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +140,20 @@
       <option name="presentableId" value="Default" />
       <updated>1729105500050</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se visualizaron mediante debug los ejemplos de metodos de string propuestos en clase">
+      <option name="closed" value="true" />
+      <created>1729112772955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729112772955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se visualizaron mediante debug los ejemplos de metodos de string propuestos en clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se visualizaron mediante debug los ejemplos de metodos de string propuestos en clase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
